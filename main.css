@@ -1,0 +1,13 @@
+table,th,td{
+    border: 5px solid rgb(199, 163, 116);
+    border-radius: 1em;
+    background-color: rgba(97, 125, 185, 0.288);
+}
+table{
+    width: 50%;
+}
+body{
+    background-color: rgb(126, 98, 87);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
